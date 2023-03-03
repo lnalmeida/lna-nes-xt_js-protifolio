@@ -34,7 +34,7 @@ const Projects = () => {
                 imgAlt='Move-It!'
             />
             <ThumbProject 
-                projectLink='https://app.netlify.com/sites/tic-tac-toe-lnalmeida'
+                projectLink='https://tic-tac-toe-lnalmeida.netlify.app/'
                 githubLink='https://github.com/lnalmeida/tic-tac-toe-game'
                 caption='Jogo da Velha'
                 imgSource={image03}
