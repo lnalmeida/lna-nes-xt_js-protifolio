@@ -26,7 +26,7 @@ export const Modal = ({ isOpen, toggle}) => {
 
 
   return ( isOpen ? ReactDOM.createPortal(
-    <div className='flex flex-col absolute mt-[-26.2rem] drop-shadow-md ml-2  z-10 bg-white border border-[#ff4d41] text-[#ff4d41] rounded-[5px] h-[180px] w-[300px] inset-x-3/4 inset-y-2/3'>
+      <div className='md: top-[100%] left-[35%] flex flex-col absolute mt-[-22.5rem] drop-shadow-md ml-2  z-10 bg-white border border-[#ff4d41] text-[#ff4d41] rounded-[5px] h-[180px] w-[300px] inset-x-3/4 inset-y-2/3'>
         <div className='flex items-center justify-end px-2 py-2 text-[#ff4d41]'>
             <RiCloseFill size={24} onClick={toggle} />
         </div>
@@ -36,12 +36,12 @@ export const Modal = ({ isOpen, toggle}) => {
             </h3>
         </div>
         <div className='flex gap-4 items-center justify-evenly'>
-            <a onClick={toggle} target='_blank' rel='noreferrer' href='https://drive.google.com/file/d/1o1Ka5RNTOzEiHQuKSOGZWoG06s2fybS5/view?usp=share_link' className='flex btn items-center justify-center h-[3.125rem]'>
+              <a onClick={toggle} download href='../public/CV-PT-2023-Luiz Almeida.pdf' className='flex btn items-center justify-center h-[3.125rem]'>
                 <p>
                     🇧🇷 Português
                 </p>
             </a>
-            <a onClick={toggle} target='_blank' rel='noreferrer' href='https://drive.google.com/file/d/18agzZQ13q626iZzhXwOQ3bH1bSiJL7rT/view?usp=share_link' className='flex btn items-center justify-center h-[3.125rem]'>
+              <a onClick={toggle} download href='../public/EN2023-CV-LAlmeida.pdf' className='flex btn items-center justify-center h-[3.125rem]'>
                 <p> 
                     🇺🇸 English
                 </p>

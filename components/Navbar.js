@@ -11,7 +11,7 @@ const Navbar = ({toggleSidebar}) => {
     const toggle = () => setOpen(!open);
 
     return (
-        <div className='bg-white fixed top-0 w-[100%] z-10'>
+        <div className='bg-white fixed top-0 w-[100%] z-10 relative'>
             <div className='container flex items-center justify-between px-4 py-4 mx-auto my-0'>
                 <div className='text-[1.5rem] text-[#ff4d41]'>
                     <ScrollLink 
