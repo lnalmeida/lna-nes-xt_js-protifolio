@@ -17,14 +17,17 @@ const Hero = () => {
                             <TypeWriter
                                 options={{
                                     strings: [
-                                        'Desenvolvedor entusiasta.',
-                                        'Frontend',
-                                        'Backend',
-                                        'Javascript',
-                                        'Typescript',
+                                        'Desenvolvedor.',
+                                        'C#', 
+                                        'ASP .NET / .NET Core',
+                                        'Entity Framework',
+                                        'Dapper',
+                                        'SQL / NoSQL',
+                                        'Frontend / Backend',
+                                        'Javascript / Typescript',
                                         'NodeJS',
                                         'ReactJS',
-                                        'React Native',
+                                        'Angular 2+',
                                     ],
                                     changeDelay: 3,
                                     changeDeletedSpeed: 2,
