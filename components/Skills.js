@@ -12,71 +12,71 @@ const Skills = () => {
         </p>
 
         <div className='grid grid-cols-1 gap-6 md:grid-cols-2'>
-            <div>
-                <p>Lógica de Programação</p>
+        <div>
+                <p>C#</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
                     <div className='absolute bg-[#077c03] h-[4px] w-[85%]'></div>
                 </div>
             </div>
             <div>
-                <p>Capacidade Analítica</p>
+                <p>ASP .Net Core</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#6cb8b4] h-[4px] w-[80%]'></div>
+                    <div className='absolute bg-[#6cb8b4] h-[4px] w-[85%]'></div>
                 </div>
             </div>
             <div>
-                <p>HTML</p>
+                <p>Entity Framework</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#e34c26] h-[4px] w-[80%]'></div>
-                </div>
-            </div>
-
-            <div>
-                <p>CSS</p>
-                <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#93d0f8] h-[4px] w-[55%]'></div>
+                    <div className='absolute bg-[#e34c26] h-[4px] w-[85%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>Javascript</p>
+                <p>HTML/CSS</p>
+                <div className='relative bg-gray-400 h-[4px] mt-2'>
+                    <div className='absolute bg-[#93d0f8] h-[4px] w-[90%]'></div>
+                </div>
+            </div>
+
+            <div>
+                <p>Javascript/Typescript</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
                     <div className='absolute bg-[#f0db4f] h-[4px] w-[80%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>Typescript</p>
+                <p>NodeJS</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
                     <div className='absolute bg-[#007acc] h-[4px] w-[70%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>NodeJS</p>
+                <p>Angular 2+</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#8bc500] h-[4px] w-[60%]'></div>
+                    <div className='absolute bg-[#8bc500] h-[4px] w-[75%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>Database</p>
+                <p>ReactJS</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#2376b8] h-[4px] w-[65%]'></div>
+                    <div className='absolute bg-[#2376b8] h-[4px] w-[70%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>React</p>
+                <p>SQL/NoSQL</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#62dbfc] h-[4px] w-[65%]'></div>
+                    <div className='absolute bg-[#62dbfc] h-[4px] w-[90%]'></div>
                 </div>
             </div>
 
             <div>
-                <p>React Native</p>
+                <p>SGDBs</p>
                 <div className='relative bg-gray-400 h-[4px] mt-2'>
-                    <div className='absolute bg-[#46c3e6] h-[4px] w-[40%]'></div>
+                    <div className='absolute bg-[#46c3e6] h-[4px] w-[90%]'></div>
                 </div>
             </div>
 

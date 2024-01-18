@@ -9,7 +9,7 @@ import image02 from '../assets/project-react-ts-finance.png';
 import image03 from '../assets/project-tic-tac-toe.png';
 import image04 from '../assets/project-vercel-page-clone.png';
 import image05 from '../assets/project-dropbox-clone-ui.png';
-import image06 from '../assets/project-guess-a-number.png';
+import image06 from '../assets/project-todo-mvc.png';
 
 const Projects = () => {
   return (
@@ -55,11 +55,11 @@ const Projects = () => {
                 imgAlt='Dropbox clone UI'
             />
             <ThumbProject 
-                projectLink='https://guess-number-lnalmeida.netlify.app/'
-                githubLink='https://github.com/lnalmeida/guess-number'
-                caption='Advinhe o Número'
+                projectLink=''
+                githubLink='https://github.com/lnalmeida/TodoMVC'
+                caption='Asp .Net Core MVC To Do App'
                 imgSource={image06}
-                imgAlt='Advinhe o número'
+                imgAlt='Asp .Net Core MVC To Do App'
             />
 
 
