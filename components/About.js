@@ -34,7 +34,7 @@ const About = () => {
                             <div className='flex items-center gap-4 font-medium text-gray-600'>
                                 <FiBookOpen className='text-[#ff4d41] text-[1.375rem]' />
                                 <div>
-                                    Estudos : FMU - Análise e Desenvolvimento de Sistemas - 5º período
+                                    Estudos : Estácio - Análise e Desenvolvimento de Sistemas - 6º período
                                 </div>
                             </div>
                             <div className='flex items-center gap-4 font-medium text-gray-600'>
@@ -54,7 +54,7 @@ const About = () => {
                         <a className='btn flex gap-2'
                             target='_blank' 
                             rel='noreferrer' 
-                            href='https://wa.me/5521983385419'
+                            href='https://wa.me/5521983984136'
                         >
                             <FaWhatsapp  size={24}/>
                             Chama no Zap!

@@ -15,7 +15,7 @@ const Hability = () => {
               <h2 className='font-medium text-[1.25rem]'>Frontend</h2>
             </div>
             <p>
-              Desenvolvimento de interfaces utilizando HTML, Javascript, CSS, focando em ReactJS. Também possuo conhecimentos iniciais  em Angular 2+ e sigo estudando a tecnologia.
+              Desenvolvimento de interfaces utilizando HTML, Javascript, CSS, focando em ReactJS. Também possuo bons conhecimentos em Angular 2+ e sigo estudando a tecnologia.
             </p>
           </div>
 
@@ -25,7 +25,7 @@ const Hability = () => {
               <h2 className='font-medium text-[1.25rem]'>Backend</h2>
             </div>
             <p>
-              Lógica de programação, estrutura de dados, arquitetura REST, programação orientada a objetos, no momento utilizando o NodeJS com Typescript como principal ferramenta, tendo passado pelo Object Pascal com a IDE Delphi 7 e experimentando a linguagem Python.
+              Lógica de programação, estrutura de dados, arquitetura REST, programação orientada a objetos, no momento utilizando C# / .NET e NodeJS com Typescript como principais ferramentas, tendo passado pelo Object Pascal com a IDE Delphi 7 e 2010 e experimentando as linguagens Java com Spring e Python.
             </p>
           </div>
 
@@ -35,7 +35,7 @@ const Hability = () => {
               <h2 className='font-medium text-[1.25rem]'>Banco de Dados</h2>
             </div>
             <p>
-              SQL(DDL, DML, DQL, DCL e TCL), joins, procedures e functions, com conhecimentos em Firebird, MySQL, Postgres, SQLite e também Bancoa de dados não relacionais, como o Firestore e MongoDB.
+              SQL(DDL, DML, DQL, DCL e TCL), joins, procedures e functions, com conhecimentos em MS-SQL Server, MySQL, Postgres, Firebird, SQLite e também Bancoa de dados não relacionais, como o Firestore e MongoDB.
             </p>
           </div>
         </div>
